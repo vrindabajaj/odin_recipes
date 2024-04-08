@@ -27,3 +27,33 @@ h1 {
     padding: 50px;
     background-color: oldlace;
 }
+
+.recipe-card {
+    width: 210px;
+    height: 140px;
+    margin: 1.5em 1.5em;
+    background-color: darksalmon;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recipe-card:hover {
+    background-color: burlywood;
+}
+
+.recipe-card a:link {
+    text-decoration: none;
+    font-family: "Trirong", serif;
+}
+
+.recipe-card a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.recipe-card a:active {
+    text-decoration: none;
+    font-weight: bold;
+    color: cornflowerblue;
+}
