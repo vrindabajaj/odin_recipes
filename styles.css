@@ -1,0 +1,27 @@
+body {
+    background-color: papayawhip;
+}
+
+h1 {
+    color: olive;
+    text-align: center;
+}
+
+.image {
+    width: auto;
+    height: 600px;
+    background-color: moccasin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image img {
+    width: 100 px;
+    height: auto;
+}
+
+.instructions {
+    padding: 50px;
+    background-color: oldlace;
+}
