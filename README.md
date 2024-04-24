@@ -1,2 +1,2 @@
-# odin_recipes - check it out [here](https://vrindabajaj.github.io/odin-recipes/)
+# odin_recipes
 As part of The Odin Project
